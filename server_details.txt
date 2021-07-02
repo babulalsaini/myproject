@@ -1,0 +1,95 @@
+///////////Daily Attandance /////////////
+
+Url:http://lms.anktech.co.in/Home
+
+////////// Daily stand up reprts////////
+
+
+363MM022 Battersea ASM - Daily Stand Up Report Url : https://docs.google.com/document/d/17droD8cpGV6ZdkrEVeRyLkeqSFhNEB6bwK85MLEjr2c/edit
+
+Jira url:https://cohaesus.atlassian.net/projects/BATT?selectedItem=com.atlassian.plugins.atlassian-connect-plugin:com.soldevelo.apps.worklogs__worklog-project-page-jira#!subtasks=countSeparately&timezoneConfiguration=users&timeUnit=hours
+
+
+
+//////////////gmail details/////
+
+Email -babu.saini@anktech.co.in
+Password-Ay>ug2CG
+new passwd:blsg0807#
+
+
+
+Username:babu.saini@cohaesus.com
+Password:blsg0807#
+
+
+
+/////localhost db details////
+Username:root
+Password:anktech@123
+
+/////my skypeId/////////////
+
+Mobile:7597242553
+Email:babu.saini@anktech.co.in
+Password:blss0807#
+
+//////////////////////////////
+
+This is your cohaesus id and it would work similar like anktech id. All projects of Cohaesus should be handled with this id including code access/jira/slack/acquia etc.
+username:babu.saini@cohaesus.com
+Password:>7bNKYqF
+
+//////////jira details////////////////////////////////////////
+Url:https://cohaesus.atlassian.net/
+Username:babu.saini@cohaesus.com
+Password:blsj0807#
+
+/////////////////Acquia Login details////////////////////
+Url:https://cloud.acquia.com/
+Username:babu.saini@cohaesus.com
+Password:Blsa08071985#
+
+
+///////////////cmd for setup project on local pc//////////
+
+ssh-keygen -t rsa -b 4096 -C "babu.saini@cohaesus.com"
+
+cmd for unzip db files :gzip -d <zip file name>
+mysql -u username -p database_name < /var/www/html/2021/db/dev-battersea-batterseadev-2021-06-03.sql
+
+mysql -u username -p database_name < /var/www/html/2021/db/dev-battersea-batterseadev-2021-06-03.sql.gz
+
+
+//////////////////Battersea Project////////////////////
+
+Url:https://battersea.local/
+
+Admin login detail:-
+
+Username:cohaesus_developer
+Password:Batter@123#
+
+my self user:-
+babu.saini@cohaesus.com
+Password:blsc0807#
+
+
+
+ID: 86751228089
+Passcode: 696781
+
+//////////////Battersea Dev server///////////////
+
+Url:https://batterseadev.prod.acquia-sites.com/
+Username:cohaesus_developer
+Password:Batter@123#
+
+////////////////Dot Digital login details///////////////////
+Url:https://login.dotdigital.com/login.aspx?ReturnUrl=%2f%3f_ga%3d2.74182548.704358991.1624529144-151843998.1624529144&_ga=2.74182548.704358991.1624529144-151843998.1624529144
+
+Username:battersea-dotdigital@cohaesus.co.uk
+Password:MukMWES@Tru5HwJ
+
+
+

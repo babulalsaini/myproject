@@ -1,0 +1,3 @@
+//////Jira help////////
+add time log on jira (for battersea Dotdigital):-
+	->go to Active sprints ->To Do section ->Sprint 29 standups ->Time tracking->Enter time in "Time spent" box like 5 mint (5M),1 hour (1H),1 hour 5mint(1H 5M) and enter Date started with time and work description.
